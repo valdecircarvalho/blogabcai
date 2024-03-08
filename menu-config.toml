@@ -1,0 +1,14 @@
+ [[menu.main]]
+    identifier = "tools"
+    name       = "Tools"
+    url        = "#"
+  [[menu.main]]
+    identifier = "sometool1"
+    name       = "Ferramenta 1"
+    url        = "#"
+    parent     = "tools"
+  [[menu.main]]
+    identifier = "sometool2"
+    name       = "Ferramenta 2"
+    url        = "#"
+    parent     = "tools"

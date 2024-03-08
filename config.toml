@@ -1,0 +1,233 @@
+baseURL = "https://abcai.com.br"
+title   = "ABC AI"
+languageCode = "pt-br"
+theme = "hello-4s3ti"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+paginate  = 10
+rssLimit  = 999  # Maximum number of items in the RSS feed.
+# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "docs"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+IsMultiLingual = true
+defaultContentLanguage = "pt-br"
+
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+#[author]
+#  name = "Valdecir Carvalho"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  
+  # Metadata mostly used in document's head
+  # 
+  description = "abc ai"
+  keywords = ""
+  images = [""]
+
+  # Home page title
+  homeTitle = "Blog ABC AI"
+
+  # Home subtitle of the index page.
+  #
+  homeSubtitle = "Aprendendo Inteligência Artificial"
+
+  # Set a background for the homepage
+  backgroundImage = "img/Future_of_Artificial_Intelligence.gif"
+  # Adds a dark overlay over the background
+  backgroundEffects = true
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  #
+  # gitUrl = ""
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  #
+  disableReadOtherPosts = false
+  
+  # Sets the default theme
+  defaultTheme = "dark"
+
+  # Enable theme toggle
+  # 
+  # This options enables the theme toggle for the theme. 
+  # Per default, this option is off. 
+  # The theme is respecting the prefers-color-scheme of the operating systeme. 
+  # With this option on, the page user is able to set the scheme he wants. 
+  enableThemeToggle = true
+
+  # Sharing buttons
+  #
+  # There are a lot of buttons preconfigured. If you want to change them,
+  # generate the buttons here: https://sharingbuttons.io
+  # and add them into your own `layouts/partials/sharing-buttons.html`
+  #
+  enableSharingButtons = false
+
+  # Global language menu
+  #
+  # Enables the global language menu.
+  #
+  enableGlobalLanguageMenu = false
+
+  # Shows Posts on the front/Home page
+  showPosts = true
+
+  # Shows the ReadMore button in text instead
+  ReadmoreText = true
+
+  # Hides ReadMore
+  hideReadMore = false
+
+  # Shows reding time
+  ShowReadingTime = false
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  #
+  customCSS = []
+  customJS  = []
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  #
+  justifyContent = false  # Set "text-align: justify" to .post-content.
+
+  # Custom footer 
+  # If you want, you can easily override the default footer with your own content. 
+  #
+  [params.fontAwesome]
+    KitURL = "https://kit.fontawesome.com/KitID.js"
+
+  [params.footer]
+    trademark = true
+    rss = true
+    copyright = false
+    author = true
+
+    # Shows social icons on footer instead of main page
+    socialIcons = false
+
+    topText = ["Blog ABC AI - Por Valdecir Carvalho"]
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+    ]
+
+  # Colors for favicons
+  #
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+  [params.logo]
+    logoMark     = "$"
+    logoText     = "abcai"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    # logoCursorDisabled = false
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#32CD32"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    logoCursorAnimate  = "1s"
+
+  # Commento is more than just a comments widget you can embed — 
+  # it’s a return to the roots of the internet. 
+  # An internet without the tracking and invasions of privacy. 
+  # An internet that is simple and lightweight. 
+  # An internet that is focused on interesting discussions, not ads. 
+  # A better internet.
+  # Uncomment this to enable Commento.
+  #
+  # [params.commento]
+  #   url = ""
+
+  # Uncomment this if you want a portrait on your start page
+  #
+  # [params.portrait]
+  #   path     = "/img/image.jpg"
+  #   alt      = "Portrait"
+  #   maxWidth = "50px"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:nobody@example.com"
+    icon = "fa-solid fa-envelope"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://www.stackoverflow.com/"
+
+[languages]
+
+  [languages.pt-br]
+    weight    = 2
+    copyright = ''
+  [languages.pt-br.params]
+    subtitle  = "Blog ABC da Inteligência Artificial"
+  [languages.en]
+    weight    = 1
+    copyright = ''
+  [languages.en.params]
+    subtitle  = "Blog ABC of AI"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "Sobre"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+  
