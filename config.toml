@@ -1,4 +1,4 @@
-baseURL = "https://abcai.com.br"
+baseURL = "/"
 title   = "ABC AI"
 languageCode = "pt-br"
 theme = "hello-4s3ti"

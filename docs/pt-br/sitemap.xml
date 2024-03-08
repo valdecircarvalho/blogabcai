@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abcai.com.br/posts/2024/03/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</loc>
+    <loc>/posts/2024/03/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/posts/2024/03/ingles-bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
+                href="/en/posts/2024/03/ingles-bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/posts/2024/03/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
+                href="/posts/2024/03/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
                 />
   </url><url>
-    <loc>https://abcai.com.br/</loc>
+    <loc>/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/"
+                href="/"
                 />
   </url><url>
-    <loc>https://abcai.com.br/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/posts/"
+                href="/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/posts/"
+                href="/posts/"
                 />
   </url><url>
-    <loc>https://abcai.com.br/series/ai/</loc>
+    <loc>/series/ai/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/series/ai/"
+                href="/en/series/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/series/ai/"
+                href="/series/ai/"
                 />
   </url><url>
-    <loc>https://abcai.com.br/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/series/"
+                href="/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>https://abcai.com.br/aprenda-em-publico/</loc>
+    <loc>/aprenda-em-publico/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://abcai.com.br/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/about/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/about/"
+                href="/about/"
                 />
   </url><url>
-    <loc>https://abcai.com.br/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/categories/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://abcai.com.br/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abcai.com.br/en/tags/"
+                href="/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://abcai.com.br/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>

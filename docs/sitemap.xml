@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://abcai.com.br/pt-br/sitemap.xml</loc>
+    <loc>/pt-br/sitemap.xml</loc>
     
       <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://abcai.com.br/en/sitemap.xml</loc>
+    <loc>/en/sitemap.xml</loc>
     
       <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     

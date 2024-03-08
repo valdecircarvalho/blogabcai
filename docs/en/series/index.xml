@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on ABC AI</title>
-    <link>https://abcai.com.br/en/series/</link>
+    <link>/en/series/</link>
     <description>Recent content in Series on ABC AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://abcai.com.br/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/en/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>https://abcai.com.br/en/series/ai/</link>
+      <link>/en/series/ai/</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://abcai.com.br/en/series/ai/</guid>
+      <guid>/en/series/ai/</guid>
       <description></description>
     </item>
   </channel>
