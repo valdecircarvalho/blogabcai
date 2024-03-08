@@ -6,7 +6,7 @@ linktitle: ola-mundo-da-ia
 type:
 - post
 - posts
-title: BRAZUCA - Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial
+title: Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial
 weight: 1
 series:
 - AI

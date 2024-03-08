@@ -1,7 +1,7 @@
 ---
 author:
   name: "Valdecir Carvalho"
-date: 2024-03-07
+date: 2024-03-08
 linktitle: historia-inteligencia-artificial
 type:
 - post

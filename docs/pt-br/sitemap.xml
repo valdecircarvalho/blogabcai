@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/2024/03/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</loc>
-    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+    <loc>https://abcai.com.br/posts/2024/03/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</loc>
+    <lastmod>2024-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2024/03/brazuca-bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</loc>
+    <loc>https://abcai.com.br/posts/2024/03/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/2024/03/ingles-bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
+                href="https://abcai.com.br/en/posts/2024/03/ingles-bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/posts/2024/03/brazuca-bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
+                href="https://abcai.com.br/posts/2024/03/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/"
                 />
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://abcai.com.br/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://abcai.com.br/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/"
+                href="https://abcai.com.br/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://abcai.com.br/posts/</loc>
     <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="https://abcai.com.br/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/posts/"
+                href="https://abcai.com.br/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/ai/</loc>
-    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+    <loc>https://abcai.com.br/series/ai/</loc>
+    <lastmod>2024-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/ai/"
+                href="https://abcai.com.br/en/series/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/series/ai/"
+                href="https://abcai.com.br/series/ai/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+    <loc>https://abcai.com.br/series/</loc>
+    <lastmod>2024-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/"
+                href="https://abcai.com.br/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/series/"
+                href="https://abcai.com.br/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/aprenda-em-publico/</loc>
+    <loc>https://abcai.com.br/aprenda-em-publico/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://abcai.com.br/about/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="https://abcai.com.br/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/about/"
+                href="https://abcai.com.br/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://abcai.com.br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://abcai.com.br/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/categories/"
+                href="https://abcai.com.br/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://abcai.com.br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://abcai.com.br/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/tags/"
+                href="https://abcai.com.br/tags/"
                 />
   </url>
 </urlset>
