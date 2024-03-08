@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abcai.com.br/posts/2024/03/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</loc>
-    <lastmod>2024-03-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://abcai.com.br/posts/2024/03/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</loc>
     <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,7 +42,7 @@
                 />
   </url><url>
     <loc>https://abcai.com.br/series/ai/</loc>
-    <lastmod>2024-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -58,7 +55,7 @@
                 />
   </url><url>
     <loc>https://abcai.com.br/series/</loc>
-    <lastmod>2024-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
