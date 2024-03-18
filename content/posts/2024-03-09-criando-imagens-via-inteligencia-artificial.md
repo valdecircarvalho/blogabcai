@@ -1,7 +1,7 @@
 ---
 author:
   name: "Valdecir Carvalho"
-date: 2024-03-09
+date: 2024-12-01
 linktitle: criando-imagens-com-inteligencia-artificial
 type:
 - post
