@@ -1,20 +1,19 @@
 ---
 author:
   name: "Valdecir Carvalho"
-date: 2024-03-07
+date: 2024-03-11
 linktitle: ola-mundo-da-ia
 type:
 - post
 - posts
 title: Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial
-summary: Summary mamamamamamammamamamammamamamam
-weight: 1
+summary: ...
 series:
 - AI
 ---
 Olá, Mundo! Bem-vindo ao blog ABC da IA.
 
-Sou [Valdecir Carvalho](https://valdecir.me), e iniciei este espaço para **documentar** e **compartilhar** minha jornada de aprendizado em inteligência artificial, totalmente em Português do Brasil.
+Sou [Valdecir Carvalho](https://valdecir.me), e iniciei este espaço para **documentar** e **compartilhar** minha jornada de aprendizado em inteligência artificial.
 
 Com uma trajetória de quase 30 anos em TI, passei por diversas áreas como suporte, desenvolvimento, infraestrutura e cloud, colaborando grandes empresass como IBM, Oracle e VMware. Além disso, sou apaixonado por comunidades, tecnologia e, videogames, com um carinho especial pelos jogos antigoss. Minha experiência com blogs inclui o blog [Homelaber Brasil](https://homelaber.com.br) no qual escrevi por mais de 5 anos, o site [Guia do Steam Deck](https://guiadosteamdeck.com.br) e inúmeros artigos como escritor convidado para blogs e sites nacionais e internacionais. Também sou o co-fundados da [Via Arto](https://bio.viaarto.com.br), junto à minha esposa Nane Alcântara, focada em brindes e presentes corporativos.
 
