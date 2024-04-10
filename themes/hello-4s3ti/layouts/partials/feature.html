@@ -1,0 +1,10 @@
+<h3>Featured Posts</h3>
+<ul>
+    {{ range first 5 (where (where site.RegularPages "Section" "posts") "Params.featured" "eq" 1) }}
+        <li>
+            <div class="post-title">
+                {{ .Date.Format "2006-01-02" }} <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </div>
+        </li>
+    {{ end }}
+</ul>

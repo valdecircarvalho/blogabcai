@@ -68,6 +68,9 @@ defaultContentLanguage = "pt-br"
   #
   homeSubtitle = "Aprendendo Inteligência Artificial"
 
+  # Home Banner
+  homeBanner = "Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial"
+
   # Set a background for the homepage
   backgroundImage = "img/home-abcai.jpg"
   # Adds a dark overlay over the background

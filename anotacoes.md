@@ -24,4 +24,24 @@
 - https://www.daniellejwilliams.com/posters
 - https://www.accenture.com/mu-en/insights/technology/technology-trends-2024
 - https://medium.com/@glegoux/history-of-the-generative-ai-aa1aa7c63f3c
+
+
+
+
+- https://groq.com/
+- https://github.com/duncantmiller/ai-developer-resources
+- https://ploomber.io/blog/vllm-deploy/
+- https://gpt4all.io/index.html
+- https://github.com/danny-avila/LibreChat
+- https://librechat.ai/
+- https://github.com/mudler/LocalAI/releases/tag/v2.11.0?ref=selfh.st
+- https://continue.dev/
+- https://takin.ai/
+- https://github.com/dashpresshq/dashpress
+- https://github.com/Budibase/budibase
+- https://dev.to/krunalrana/open-source-ai-image-generators-platform-of-2024-4m1l
+- https://dev.to/crawlbase/how-to-scrape-websites-with-chatgpt-in-2024-4f6j
+- https://dev.to/vinifiedler/entendendo-como-o-chatgpt-funciona-tokenizadores-2ecf
+- https://dev.to/paulund/clean-up-your-docker-environment-23nm
+- https://theresanaiforthat.com/
 - 

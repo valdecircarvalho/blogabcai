@@ -1,8 +1,9 @@
 ---
 author:
   name: "Valdecir Carvalho"
-date: 2024-03-11
+date: 2024-04-01
 linktitle: ola-mundo-da-ia
+featured: true
 type:
 - post
 - posts
