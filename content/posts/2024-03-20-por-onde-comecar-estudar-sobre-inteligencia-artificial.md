@@ -1,7 +1,7 @@
 ---
 author:
   name: "Valdecir Carvalho"
-date: 2024-03-21
+date: 2024-12-01
 linktitle: roadmap-estudos-ia
 type:
 - post
