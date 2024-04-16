@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ABC AI</title>
-        <link>/posts/</link>
+        <link>//localhost:1313/posts/</link>
         <description>Recent content in Posts on ABC AI</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Criando Imagens com Inteligencia Artificial</title>
-            <link>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
             <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
             <description>Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
 Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
 O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações.</description>
@@ -48,10 +48,10 @@ O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variaç�
         
         <item>
             <title>A História da Inteligência Artificial</title>
-            <link>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá!
 Eu gosto de entender a origem das coisa, então nada mais justo do que começar o meu blog falando sobre a origem e história da Interligencia Artificial.
 Não pretendo ser massante aqui ou mesmo escrever páginas e páginas de um conteúdo que já foi amplamente publicado na internet, a ideia é fazer um resumo de onde e como surgiu essa coisa chamada Inteligência Artificial e sua evolução até os dias de hoje.</description>
@@ -178,11 +178,74 @@ A ascensão da IA traz consigo dilemas éticos, desde o viés algorítmico até 
         </item>
         
         <item>
+            <title>Roadmap Estudos Inteligência Artificial (IA para todos!)</title>
+            <link>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
+            <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+            
+            <guid>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
+            <description>&amp;hellip;</description>
+            <content type="html"><![CDATA[<p>Olá! Neste post, quero trazer um panorama sobre como começar a estudar Inteligência Artificial (IA) para diversos perfis, sejam técnicos ou não.</p>
+<h2 id="como-posso-começar-a-aprender-ia">Como posso começar a aprender IA</h2>
+<p>Você pode iniciar seus estudos sobre IA, independentemente de seu perfil:</p>
+<ul>
+<li>Usuário Final</li>
+<li>Super Usuário/Usuário Avançado</li>
+<li>Desenvolvedor/Profissional de TI</li>
+</ul>
+<h2 id="usuário-final">Usuário Final</h2>
+<p>Não há melhor maneira de aprender sobre IA do que usando e experimentando.</p>
+<p>O primeiro passo é se tornar um usuário das ferramentas de IA. Você deve se cadastrar e criar sua conta em algumas ferramentas (veja a lista abaixo) de IA generativa e começar a usá-las para ganhar experiência e prática. Familiarize-se com essas ferramentas de IA generativa, entenda o que elas são, o que fazem, suas capacidades e recursos, em suma, coloque a mão na massa.</p>
+<ul>
+<li><a href="https://chat.openai.com/">ChatGPT</a></li>
+<li><a href="https://gemini.google.com/app">Google Gemini</a></li>
+<li><a href="https://www.bing.com/chat">Microsoft Copilot</a></li>
+<li><a href="https://claude.ai/">Claude</a></li>
+<li><a href="https://groq.com/">Groq</a></li>
+</ul>
+<p>Esses são os principais e <strong>mais famosos</strong> serviços de chatbot (ou <strong>LLM - Large Language Model / Modelo de Linguagem de Grande Escala em Português</strong>) disponíveis atualmente. Existem milhares de outros serviços, inclusive versões ou clones do ChatGPT que podem ser usados localmente no seu computador ou em um servidor da sua empresa, evitando assim enviar dados confidenciais ou sensíveis para essas empresas. Discutiremos mais sobre isso no futuro.</p>
+<blockquote>
+<h3 id="llm---large-language-model--modelo-de-linguagem-de-grande-escala">LLM - Large Language Model / Modelo de Linguagem de Grande Escala</h3>
+<p>LLM, que significa Modelo de Linguagem de Grande Escala, é uma tecnologia avançada no campo da inteligência artificial que se especializa em compreender e gerar texto de forma que se assemelha à maneira como os humanos se comunicam. São treinados em imensos volumes de dados textuais, como livros, websites e bases de dados. Imagine um bibliotecário que leu milhões de livros e é capaz de conversar sobre quase qualquer assunto, responder perguntas ou até mesmo criar histórias novas; essa é a essência de um LLM. Ele é treinado com vastas quantidades de dados textuais para aprender padrões de linguagem, o que lhe permite realizar uma variedade de tarefas linguísticas complexas. <em>(Microsoft Copilot)</em></p>
+<p>Você pode pensar em um LLM como um assistente virtual muito sofisticado que não apenas entende o que você diz ou escreve, mas também pode fornecer informações, criar conteúdo, traduzir idiomas e ajudar na aprendizagem, tudo isso com uma compreensão profunda do contexto e nuances da linguagem. É como ter um interlocutor inteligente ao seu lado, sempre pronto para ajudar com suas necessidades de comunicação e informação. <em>(Microsoft Copilot)</em></p>
+<p>Para o público geral, o impacto dos LLMs é significativo porque eles facilitam a interação mais natural e intuitiva com a tecnologia. Isso não apenas torna a tecnologia mais acessível para todos, mas também abre novas possibilidades para automação e assistência em setores como educação, atendimento ao cliente, e entretenimento. Em resumo, LLMs são como motores inteligentes que compreendem e produzem linguagem, ajudando a tornar as máquinas mais úteis e compreensíveis para os humanos. <em>(ChatGPT)</em></p>
+</blockquote>
+<p>Minha sugestão é criar uma conta gratuita nesses serviços e começar a usá-los para se familiarizar e aprender. Utilize-os para tarefas do seu dia a dia, faça perguntas sobre como resolver um problema, peça sugestões para criar uma receita com os ingredientes que você tem na geladeira, criar um roteiro de viagem, como criar uma fórmula no Excel, etc. Use sua imaginação. Mas cuidado, principalmente se for utilizar para pesquisas sobre dados atuais, muitas vezes o resultado pode trazer informações incorretas.</p>
+<p>Tente fazer a seguinte pergunta para os 5 chats que listei acima: <em>Quem é o presidente do Brasil?</em> e veja o resultado.</p>
+<p><img alt="Quem é o presidente do Brasil?" src="/img/chatgpt-quem-e-o-presidente-do-brasil.png"></p>
+<h2 id="super-usuáriousuário-avançado">Super Usuário/Usuário Avançado</h2>
+<p>Depois de obter experiência prática com as ferramentas de IA, o próximo passo é aprimorar o conhecimento e aprender a usar melhor as ferramentas.</p>
+<p>As ferramentas de IA generativa têm muito potencial ainda não explorado. Precisamos aprender a aplicar as técnicas corretas para usá-las de forma eficaz. A maioria das ferramentas de IA generativa gera respostas com base na descrição natural conhecida como prompt. Escrever um bom prompt é uma habilidade (ou melhor, até uma profissão). Você precisa aprender detalhadamente como escrever o prompt ou a pergunta que deseja fazer ao chat para extrair todo o potencial da IA generativa.</p>
+<blockquote>
+<h3 id="escrevendo-prompts-eficazes">Escrevendo prompts eficazes</h3>
+<p>Para começar a entender como escrever um prompt eficaz, pense em ser claro e específico. Por exemplo, se você está perguntando sobre como fazer um bolo de chocolate, em vez de simplesmente perguntar &ldquo;como fazer um bolo&rdquo;, especifique que tipo de bolo você quer fazer, se tem preferências por ingredientes ou técnicas, e qualquer restrição alimentar. Isso ajuda a ferramenta de IA a gerar uma resposta mais direcionada e útil.</p>
+<p>Experimente diferentes formas de fazer perguntas e veja como a IA responde. Isso ajudará você a entender melhor como formular suas questões para obter as melhores respostas.</p>
+<p>Explore a documentação: Muitas ferramentas de IA têm documentações detalhadas e guias de usuário que podem ajudá-lo a entender melhor suas funcionalidades e limitações.</p>
+<p>Tente reformular uma pergunta várias vezes, alterando o nível de detalhe e observando como as respostas mudam. Isso ajudará você a entender melhor como as ferramentas de IA interpretam as suas solicitações e como você pode manipular essa interpretação para seu benefício.</p>
+</blockquote>
+<p>Irei escrever mais sobre Engenharia de Prompts no futuro, mas por agora, apenas use a ferramenta e não deixe de continuar perguntando de maneiras diferentes, até obter sua resposta.</p>
+<h2 id="desenvolvedor">Desenvolvedor</h2>
+<p>Se você tem habilidades técnicas e quer explorar mais profundamente a IA - assim como eu - ou se você é um desenvolvedor (dev/programador), existe um caminho bastante empolgante pela frente. Aqui estão algumas etapas que você pode seguir:</p>
+<ul>
+<li><strong>Estude os fundamentos:</strong> Antes de começar a codificar, é importante ter uma compreensão sólida dos princípios básicos de IA, como aprendizado de máquina, redes neurais e processamento de linguagem natural.</li>
+<li><strong>Pratique com projetos:</strong> A melhor maneira de aprender é fazendo. Comece com projetos pequenos e aumente a complexidade à medida que você ganha confiança.</li>
+<li><strong>Use APIs de IA:</strong> Muitas empresas oferecem APIs que permitem integrar as capacidades de suas IAs em nossos próprios aplicativos e projetos. Experimente essas APIs para ver o que você pode construir.</li>
+<li><strong>Contribua para projetos open-source:</strong> Há uma grande quantidade de projetos de IA open-source que você pode contribuir. Isso não apenas ajuda a comunidade, mas também melhora suas habilidades e seu portfólio.</li>
+<li><strong>Participe de comunidades:</strong> Junte-se a comunidades online e eventos para desenvolvedores de IA para trocar conhecimentos, ideias e se manter atualizado.</li>
+<li><strong>Cursos e Recursos:</strong> Existem inúmeros cursos online que podem ajudá-lo a começar, desde tutoriais básicos até cursos avançados sobre machine learning e desenvolvimento de IA.</li>
+</ul>
+<p>Independentemente de seu perfil, iniciar no mundo da IA é sobre explorar, aprender e adaptar. A IA está se tornando cada vez mais integrada em nossas vidas, e entender como ela funciona e como pode ser usada é crucial para todos, desde usuários casuais até desenvolvedores. Portanto, comece por onde você se sente mais confortável e esteja aberto para crescer a partir daí. Seja curioso, seja crítico e, acima de tudo, seja criativo em suas jornadas de aprendizado em IA.</p>
+<p>Nos próximos posts, vou começar a me aprofundar mais nos tópicos acima, um de cada vez, para que você possa tirar suas dúvidas e começar também seus estudos e utilização de IA.</p>
+<p>Até o próximo post!</p>
+<p>&ndash;VC</p>
+]]></content>
+        </item>
+        
+        <item>
             <title>Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial</title>
-            <link>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
             <description>&amp;hellip;</description>
             <content type="html"><![CDATA[<p>Olá, Mundo! Bem-vindo ao blog ABC da IA.</p>
 <p>Sou <a href="https://valdecir.me">Valdecir Carvalho</a>, e iniciei este espaço para <strong>documentar</strong> e <strong>compartilhar</strong> minha jornada de aprendizado em inteligência artificial.</p>
