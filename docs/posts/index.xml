@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ABC AI</title>
-        <link>/posts/</link>
+        <link>//localhost:1313/posts/</link>
         <description>Recent content in Posts on ABC AI</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Criando Imagens com Inteligencia Artificial</title>
-            <link>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
             <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
             <description>Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
 Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
 O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações.</description>
@@ -48,10 +48,10 @@ O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variaç�
         
         <item>
             <title>A História da Inteligência Artificial</title>
-            <link>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá!
 Eu gosto de entender a origem das coisa, então nada mais justo do que começar o meu blog falando sobre a origem e história da Interligencia Artificial.
 Não pretendo ser massante aqui ou mesmo escrever páginas e páginas de um conteúdo que já foi amplamente publicado na internet, a ideia é fazer um resumo de onde e como surgiu essa coisa chamada Inteligência Artificial e sua evolução até os dias de hoje.</description>
@@ -179,10 +179,10 @@ A ascensão da IA traz consigo dilemas éticos, desde o viés algorítmico até 
         
         <item>
             <title>Roadmap Estudos Inteligência Artificial (IA para todos!)</title>
-            <link>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
+            <link>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
             <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
+            <guid>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
             <description>&amp;hellip;</description>
             <content type="html"><![CDATA[<p>Olá! Neste post, quero trazer um panorama sobre como começar a estudar Inteligência Artificial (IA) para diversos perfis, sejam técnicos ou não.</p>
 <h2 id="como-posso-começar-a-aprender-ia">Como posso começar a aprender IA</h2>
@@ -242,10 +242,10 @@ A ascensão da IA traz consigo dilemas éticos, desde o viés algorítmico até 
         
         <item>
             <title>Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial</title>
-            <link>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
             <description>&amp;hellip;</description>
             <content type="html"><![CDATA[<p>Olá, Mundo! Bem-vindo ao blog ABC da IA.</p>
 <p>Sou <a href="https://valdecir.me">Valdecir Carvalho</a>, e iniciei este espaço para <strong>documentar</strong> e <strong>compartilhar</strong> minha jornada de aprendizado em inteligência artificial.</p>

@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="map[name:Valdecir Carvalho]">
+<meta name="description" content="Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
+Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
+O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações." />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="" />
+<link rel="canonical" href="/posts/2024/04/criando-imagens-com-inteligencia-artificial/" />
+
+
+    <title>
+        
+            Criando Imagens com Inteligencia Artificial :: ABC AI  — Blog ABC da Inteligência Artificial
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.5.0/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="/main.ff8f2a433956f170ddcd89f51cdbe2f59e48e7aedac5eca668389b0b2816b84e.css">
+
+
+
+
+    <script src="https://kit.fontawesome.com/KitID.js" crossorigin="anonymous"></script>
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <meta name="msapplication-TileColor" content="">
+
+
+<meta itemprop="name" content="Criando Imagens com Inteligencia Artificial">
+<meta itemprop="description" content="Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
+Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
+O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações."><meta itemprop="datePublished" content="2024-04-05T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2024-04-05T00:00:00+00:00" />
+<meta itemprop="wordCount" content="160"><meta itemprop="image" content="/" />
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="/" /><meta name="twitter:title" content="Criando Imagens com Inteligencia Artificial"/>
+<meta name="twitter:description" content="Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
+Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
+O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações."/>
+
+
+
+    <meta property="og:title" content="Criando Imagens com Inteligencia Artificial" />
+<meta property="og:description" content="Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
+Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
+O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/posts/2024/04/criando-imagens-com-inteligencia-artificial/" /><meta property="og:image" content="/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-04-05T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-04-05T00:00:00+00:00" />
+<meta property="og:see_also" content="/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/" /><meta property="og:see_also" content="/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/" /><meta property="og:see_also" content="/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/" />
+
+
+
+
+
+
+
+    <meta property="article:published_time" content="2024-04-05 00:00:00 &#43;0000 UTC" />
+
+
+
+
+
+
+
+
+
+
+    </head>
+
+    
+        <body>
+    
+    
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">(base)$&gt;</span>
+            <span class="logo__text">abcai</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#32CD32;
+                   animation-duration:1s;">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner">
+            
+            <div class="submenu">
+                <li class="dropdown">
+                    <a href="/posts/">
+                        Posts
+                    </a>
+                </li>
+            </div>
+            
+        
+            
+            <div class="submenu">
+                <li class="dropdown">
+                    <a href="/about/">
+                        Sobre
+                    </a>
+                </li>
+            </div>
+            
+        
+
+    
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+                <span class="theme-toggle not-selectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+   <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+   3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+   13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+ </svg></span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+  <main class="post">
+
+    <div class="post-info">
+      <p>
+        <i class="fa-solid fa-clock"></i>
+        Um minuto
+        <i class="fa-solid fa-clipboard"></i>
+        160 Palavras
+        
+      </p>
+      <p>
+        <i class="fa-solid fa-calendar-days"></i>
+        
+          2024-04-04 21:00
+        
+
+         
+          
+        
+      </p>
+      <p>
+      
+      
+      </p>
+    </div>
+
+    <article>
+      <h1 class="post-title">
+        <a href="/posts/2024/04/criando-imagens-com-inteligencia-artificial/">Criando Imagens com Inteligencia Artificial</a>
+      </h1>
+
+      
+
+      
+
+      
+
+      <div class="post-content">
+        <p>Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.</p>
+<p>Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.</p>
+<p>O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações. Hoje é totalmente possível gerar imagens em seu computador, praticamente sem custo, utilizando apenas ferramentas open source. Nesse pouco mais de 1 ano, desde que começei nessa jornada, houve uma evolução ENORME, tanto em questão de softwares, algoritimos, modelos e principalmente facilidade de executar esses programas localmente.</p>
+<p>Nesse post, vou compartilhar com vocês algumas opções de software de geração de imagem, que podem ser executados localmente.</p>
+<h2 id="automatic-1111">Automatic 1111</h2>
+<p><img alt="alt text" src="/img/stable-diffusion.png"></p>
+<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Automatic 111</a></p>
+<h2 id="easy-diffusion">Easy Diffusion</h2>
+<p><img alt="alt text" src="/img/easy-diffusion.png">
+<a href="https://easydiffusion.github.io/">Easy Diffusion</a></p>
+<h2 id="foocus">Foocus</h2>
+<p><img alt="alt text" src="/img/foocus.png">
+<a href="https://github.com/lllyasviel/Fooocus">Foocus</a></p>
+<h2 id="foocus-mre">Foocus-MRE</h2>
+<p><img alt="alt text" src="/img/foocus-mre.png">
+<a href="https://github.com/lllyasviel/Fooocus">Foocus</a></p>
+<h2 id="invokeai">InvokeAI</h2>
+<p><img alt="alt text" src="/img/invokeai.png">
+<a href="https://github.com/invoke-ai/InvokeAI">InvokeAI</a></p>
+<h2 id="sdnext">SDNext</h2>
+<p><img alt="alt text" src="/img/sdnext.png">
+<a href="https://github.com/vladmandic/automatic">SDNext</a></p>
+<h2 id="makeayo">Makeayo</h2>
+<p><img alt="alt text" src="/img/makeayo.png">
+<a href="https://makeayo.com/">Makeayo</a></p>
+<p>Até breve,</p>
+
+      </div>
+    </article>
+      <hr />
+    <div class="post-info">
+      
+    <div class="pagination">
+        
+
+        <div class="pagination__buttons">
+            
+
+            
+            <span class="button next">
+                <a href="/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/">
+                    <span class="button__text">A História da Inteligência Artificial</span>
+                    <span class="button__icon">→</span>
+                </a>
+            </span>
+            
+        </div>
+    </div>
+
+    </div>
+
+
+    
+
+    
+
+  </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    
+        <div class="footer__inner">
+            <span>Blog ABC AI - <a href="http://valdecir.me">Valdecir Carvalho</a></span>
+        </div>
+    
+    
+    
+        <div class="footer__inner">
+            <span>&copy;2024</span>&nbsp;
+            <span><a href="/"></a></span>&nbsp;
+            
+        </div>
+    
+        <div class="footer__inner">
+          
+            <div class="footer__content">
+                <span>Powered by <a href="http://gohugo.io">Hugo</a></span> 
+            </div>
+          
+        </div>
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+<script type="text/javascript" src="/bundle.min.2e6d0581b853da65f0bd9b01de835eeb79848503bed0b8bd7312a226e78dabe287bb10019762e5f1c0ed9ce5a4cb42c9ca1ea886892ae353d908d7abfbcd4256.js" integrity="sha512-Lm0FgbhT2mXwvZsB3oNe63mEhQO&#43;0Li9cxKiJueNq&#43;KHuxABl2Ll8cDtnOWky0LJyh6ohokq41PZCNer&#43;81CVg=="></script>
+
+
+
+    </body>
+</html>

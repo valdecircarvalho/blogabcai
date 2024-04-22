@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABC AI</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on ABC AI</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.2</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Criando Imagens com Inteligencia Artificial</title>
-      <link>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
+      <link>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
+      <guid>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
       <description>Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.&#xA;Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.&#xA;O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações.</description>
     </item>
     <item>
       <title>A História da Inteligência Artificial</title>
-      <link>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
+      <link>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
+      <guid>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
       <description>Olá!&#xA;Eu gosto de entender a origem das coisa, então nada mais justo do que começar o meu blog falando sobre a origem e história da Interligencia Artificial.&#xA;Não pretendo ser massante aqui ou mesmo escrever páginas e páginas de um conteúdo que já foi amplamente publicado na internet, a ideia é fazer um resumo de onde e como surgiu essa coisa chamada Inteligência Artificial e sua evolução até os dias de hoje.</description>
     </item>
     <item>
       <title>Roadmap Estudos Inteligência Artificial (IA para todos!)</title>
-      <link>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
+      <link>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
+      <guid>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
       <description>&amp;hellip;</description>
     </item>
     <item>
       <title>Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial</title>
-      <link>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
+      <link>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
+      <guid>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
       <description>&amp;hellip;</description>
     </item>
     <item>
       <title>Aprenda em Público</title>
-      <link>/aprenda-em-publico/</link>
+      <link>//localhost:1313/aprenda-em-publico/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/aprenda-em-publico/</guid>
+      <guid>//localhost:1313/aprenda-em-publico/</guid>
       <description>Aprender em Público A filosofia de Aprender em Público encoraja indivíduos a compartilhar seu processo de aprendizado com a comunidade, transformando suas jornadas pessoais em recursos compartilhados. A ideia central é que, ao tornar seu aprendizado visível para os outros, você não apenas solidifica seu próprio conhecimento, mas também contribui para o crescimento coletivo. Aqui estão alguns pontos chave sobre o que significa Aprender em Público:&#xA;Benefícios de Aprender em Público Melhoria Contínua: Receber feedback imediato da comunidade pode acelerar o processo de aprendizado e melhorar a qualidade do trabalho.</description>
     </item>
     <item>
       <title>Bem vindo ao ABC do AI</title>
-      <link>/about.en/</link>
+      <link>//localhost:1313/about.en/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/about.en/</guid>
+      <guid>//localhost:1313/about.en/</guid>
       <description>Olá! Seja bem vindo ao blog ABC do AI! Meu nome é Valdecir Carvalho e motivação em escrever esse blog é documentar e compartilhar minha jornada nos estudos de inteligência artificial em Português do Brasil.&#xA;Se você é novo por aqui, vou contar um pouquinho do meu background e minha experiêcia.&#xA;Trabalho com TI há quase 30 anos, já fiz muita coisa nessa área. Suporte, desenvolvimento, infraestrutura, cloud e por ai vai.</description>
     </item>
     <item>
       <title>Bem vindo ao ABC do AI</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>Olá! Seja bem vindo ao blog ABC do AI! Meu nome é Valdecir Carvalho e motivação em escrever esse blog é documentar e compartilhar minha jornada nos estudos de inteligência artificial em Português do Brasil.&#xA;Se você é novo por aqui, vou contar um pouquinho do meu background e minha experiêcia.&#xA;Trabalho com TI há quase 30 anos, já fiz muita coisa nessa área. Suporte, desenvolvimento, infraestrutura, cloud e por ai vai.</description>
     </item>
   </channel>
