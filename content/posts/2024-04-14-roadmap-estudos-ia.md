@@ -8,7 +8,6 @@ type:
 - post
 - posts
 title: Roadmap Estudos Inteligência Artificial (IA para todos!)
-summary: ...
 series:
 - AI
 ---

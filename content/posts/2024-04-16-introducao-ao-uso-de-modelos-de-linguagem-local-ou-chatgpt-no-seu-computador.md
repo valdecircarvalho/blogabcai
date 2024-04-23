@@ -8,7 +8,6 @@ type:
 - post
 - posts
 title: ChatGPT no seu Computador - Introdução ao Uso de LLMs locais
-summary: ...
 series:
 - AI
 - LLM
