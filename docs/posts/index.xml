@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ABC AI</title>
-        <link>//localhost:1313/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on ABC AI</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
         <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
-        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Criando Imagens com Inteligencia Artificial</title>
-            <link>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
+            <link>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
             <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
+            <guid>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
             <description>Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
 Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
 O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações.</description>
@@ -48,10 +48,10 @@ O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variaç�
         
         <item>
             <title>A História da Inteligência Artificial</title>
-            <link>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
+            <link>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá!
 Eu gosto de entender a origem das coisa, então nada mais justo do que começar o meu blog falando sobre a origem e história da Interligencia Artificial.
 Não pretendo ser massante aqui ou mesmo escrever páginas e páginas de um conteúdo que já foi amplamente publicado na internet, a ideia é fazer um resumo de onde e como surgiu essa coisa chamada Inteligência Artificial e sua evolução até os dias de hoje.</description>
@@ -179,10 +179,10 @@ A ascensão da IA traz consigo dilemas éticos, desde o viés algorítmico até 
         
         <item>
             <title>ChatGPT no seu Computador - Introdução ao Uso de LLMs locais</title>
-            <link>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
+            <link>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
             <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
+            <guid>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
             <description>Olá! Neste post, vou fazer uma introdução ao uso de LLM - Large Language Model / Modelo de Linguagem de Grande Escala que podem ser executados localmente no seu computador, ou para simplificar, como rodar o ChatGPT no seu computador e totalmente grátis.
 Introdução ao uso de LLMs localmente Os Modelos de Linguagem de Grande Escala (LLMs), como GPT (Generative Pre-trained Transformer) e BERT (Bidirectional Encoder Representations from Transformers), são tipos de inteligência artificial projetados para entender e gerar texto de maneira coerente e contextual.</description>
             <content type="html"><![CDATA[<p><img alt="Screenshot Site LM Studio" src="/img/chatgpt-local.webp"></p>
@@ -240,10 +240,10 @@ Introdução ao uso de LLMs localmente Os Modelos de Linguagem de Grande Escala 
         
         <item>
             <title>Roadmap Estudos Inteligência Artificial (IA para todos!)</title>
-            <link>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
+            <link>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
             <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
+            <guid>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
             <description>Olá! Neste post, quero trazer um panorama sobre como começar a estudar Inteligência Artificial (IA) para diversos perfis, sejam técnicos ou não.
 Como posso começar a aprender IA Você pode iniciar seus estudos sobre IA, independentemente de seu perfil:
 Usuário Final Super Usuário/Usuário Avançado Desenvolvedor/Profissional de TI Usuário Final Não há melhor maneira de aprender sobre IA do que usando e experimentando.
@@ -306,10 +306,10 @@ O primeiro passo é se tornar um usuário das ferramentas de IA.</description>
         
         <item>
             <title>Como instalar e utilizar o LM Studio no seu computador</title>
-            <link>//localhost:1313/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</link>
+            <link>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</guid>
+            <guid>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</guid>
             <description>&amp;hellip;</description>
             <content type="html"><![CDATA[<p>Olá!</p>
 <p>Nesse post, vou dar a continuação ao último post, onde falei brevemente sobre ferramentas LLM para rodar localmente no seu computador, e como prometido, hoje vou falar sobre a ferramenta LM Studio.</p>
@@ -347,10 +347,10 @@ O primeiro passo é se tornar um usuário das ferramentas de IA.</description>
         
         <item>
             <title>Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial</title>
-            <link>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
+            <link>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá, Mundo! Bem-vindo ao blog ABC da IA.
 Sou Valdecir Carvalho, e iniciei este espaço para documentar e compartilhar minha jornada de aprendizado em inteligência artificial.
 Com uma trajetória de quase 30 anos em TI, passei por diversas áreas como suporte, desenvolvimento, infraestrutura e cloud, colaborando grandes empresass como IBM, Oracle e VMware. Além disso, sou apaixonado por comunidades, tecnologia e, videogames, com um carinho especial pelos jogos antigoss. Minha experiência com blogs inclui o blog Homelaber Brasil no qual escrevi por mais de 5 anos, o site Guia do Steam Deck e inúmeros artigos como escritor convidado para blogs e sites nacionais e internacionais.</description>

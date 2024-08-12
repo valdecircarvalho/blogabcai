@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</loc>
+    <loc>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</loc>
     <lastmod>2024-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</loc>
+    <loc>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/ai/</loc>
+    <loc>/series/ai/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</loc>
+    <loc>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/iniciante/</loc>
+    <loc>/series/iniciante/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/llm/</loc>
+    <loc>/series/llm/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/series/tutorial/</loc>
+    <loc>/series/tutorial/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</loc>
+    <loc>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</loc>
     <lastmod>2024-04-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</loc>
+    <loc>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</loc>
+    <loc>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/aprenda-em-publico/</loc>
+    <loc>/aprenda-em-publico/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about.en/</loc>
+    <loc>/about.en/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
