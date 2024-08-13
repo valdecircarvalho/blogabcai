@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ABC AI</title>
-        <link>//localhost:1313/posts/</link>
+        <link>/posts/</link>
         <description>Recent content in Posts on ABC AI</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
-        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Criando Imagens com Inteligencia Artificial</title>
-            <link>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
+            <link>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
             <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
+            <guid>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
             <description>Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
 Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
 O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações.</description>
@@ -48,10 +48,10 @@ O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variaç�
         
         <item>
             <title>A História da Inteligência Artificial</title>
-            <link>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
+            <link>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá!
 Eu gosto de entender a origem das coisa, então nada mais justo do que começar o meu blog falando sobre a origem e história da Interligencia Artificial.
 Não pretendo ser massante aqui ou mesmo escrever páginas e páginas de um conteúdo que já foi amplamente publicado na internet, a ideia é fazer um resumo de onde e como surgiu essa coisa chamada Inteligência Artificial e sua evolução até os dias de hoje.</description>
@@ -178,81 +178,11 @@ A ascensão da IA traz consigo dilemas éticos, desde o viés algorítmico até 
         </item>
         
         <item>
-            <title>Os 15 principais termos do LLM que você precisa saber</title>
-            <link>//localhost:1313/posts/2024/08/os-15-principais-termos-do-llm-que-voc%C3%AA-precisa-saber/</link>
-            <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-            
-            <guid>//localhost:1313/posts/2024/08/os-15-principais-termos-do-llm-que-voc%C3%AA-precisa-saber/</guid>
-            <description>&amp;hellip;</description>
-            <content type="html"><![CDATA[<h1 id="os-15-principais-termos-do-llm-que-você-precisa-saber-em-2024">Os 15 principais termos do LLM que você precisa saber em 2024</h1>
-<p>Os Large Language Models (LLMs) estão revolucionando a forma como interagimos com a tecnologia. Mas com toda esta inovação surge um novo vocabulário!</p>
-<p>Vamos mergulhar em alguns termos essenciais e explicar o que cada um significa:</p>
-<ul>
-<li>
-<p>Transformers: Imagine uma poderosa arquitetura de processamento de linguagem. Isso é um transformador! Ele analisa as relações entre palavras no texto, cruciais para que os LLMs entendam e gerem a linguagem</p>
-</li>
-<li>
-<p>Tokens: pense em uma frase como um trem e nas palavras como vagões individuais. Tokens são as unidades básicas de texto que um LLM processa, como palavras ou subpalavras.</p>
-</li>
-<li>
-<p>Chunking: semelhante ao agrupamento de vagões de trem, o chunking envolve dividir o texto em segmentos menores e gerenciáveis ​​para o LLM analisar</p>
-</li>
-<li>
-<p>Indexação: é como criar um catálogo de biblioteca para os enormes conjuntos de dados nos quais os LLMs treinam. A indexação permite a recuperação eficiente de informações específicas.</p>
-</li>
-<li>
-<p>Incorporação: Imagine capturar a essência de uma palavra em um código numérico. Os embeddings representam palavras de uma forma que permite ao LLM compreender suas relações entre si.</p>
-</li>
-<li>
-<p>Pesquisa vetorial: pense em encontrar um livro em uma biblioteca com base em seu tópico. A pesquisa vetorial ajuda os LLMs a encontrar informações semelhantes em seus vastos conjuntos de dados usando embeddings.</p>
-</li>
-<li>
-<p>Banco de dados de vetores: Este banco de dados especializado armazena os códigos numéricos (incorporação) gerados durante o processo de incorporação, permitindo uma pesquisa vetorial eficiente.</p>
-</li>
-<li>
-<p>Inteligência Geral Artificial (AGI): O objetivo final da pesquisa em IA – criar máquinas que possam pensar e aprender como humanos. Os LLMs são um passo significativo nessa direção.</p>
-</li>
-<li>
-<p>Agente LLM: Imagine um LLM treinado especificamente para uma tarefa específica, como escrever diferentes tipos de conteúdo criativo ou responder suas perguntas em um domínio específico. Este é um agente LLM.</p>
-</li>
-<li>
-<p>MOE (Mixture of Experts): Pense em uma equipe de especialistas colaborando. O MOE permite que um LLM aproveite vários modelos especializados menores para melhorar o desempenho em tarefas específicas.</p>
-</li>
-<li>
-<p>Shot Learning: Refere-se a quanta instrução um LLM precisa para aprender uma nova tarefa.</p>
-</li>
-<li>
-<p>Zero-Shot: Nenhum exemplo fornecido, o LLM depende do conhecimento existente.</p>
-</li>
-<li>
-<p>One-Shot: Apenas um exemplo é dado para orientar o LLM.</p>
-</li>
-<li>
-<p>N-Shot: Vários exemplos são fornecidos para o LLM aprender.</p>
-</li>
-<li>
-<p>Ajuste fino com eficiência de parâmetros: LLMs podem ser enormes! Essa técnica permite treinar um modelo menor em cima de um maior, concentrando-se em uma tarefa específica e mantendo o uso de recursos sob controle.</p>
-</li>
-<li>
-<p>RAG (Geração Aumentada de Recuperação): Imagine um LLM que não apenas gera texto, mas também recupera informações relevantes de fontes externas para melhorar sua resposta. Isso é RAG!</p>
-</li>
-<li>
-<p>Prompt Engineering: A arte de elaborar instruções claras e concisas para o LLM alcançar o resultado desejado. Pense nisso como dar ao LLM uma pergunta específica para responder.</p>
-</li>
-<li>
-<p>LoRA quantizado (adaptadores de baixa classificação): Uma técnica para compactar grandes modelos LLM, tornando-os menores e mais rápidos para execução em dispositivos com recursos limitados.</p>
-</li>
-</ul>
-<p>Esta lista apenas arranha a superfície da linguagem LLM! À medida que o campo continua a evoluir, o mesmo acontece com o vocabulário. Mas com esses termos básicos em seu arsenal, você estará no caminho certo para navegar no emocionante mundo dos grandes modelos de linguagem.</p>
-]]></content>
-        </item>
-        
-        <item>
             <title>ChatGPT no seu Computador - Introdução ao Uso de LLMs locais</title>
-            <link>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
+            <link>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
             <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
+            <guid>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
             <description>Olá! Neste post, vou fazer uma introdução ao uso de LLM - Large Language Model / Modelo de Linguagem de Grande Escala que podem ser executados localmente no seu computador, ou para simplificar, como rodar o ChatGPT no seu computador e totalmente grátis.
 Introdução ao uso de LLMs localmente Os Modelos de Linguagem de Grande Escala (LLMs), como GPT (Generative Pre-trained Transformer) e BERT (Bidirectional Encoder Representations from Transformers), são tipos de inteligência artificial projetados para entender e gerar texto de maneira coerente e contextual.</description>
             <content type="html"><![CDATA[<p><img alt="Screenshot Site LM Studio" src="/img/chatgpt-local.webp"></p>
@@ -310,10 +240,10 @@ Introdução ao uso de LLMs localmente Os Modelos de Linguagem de Grande Escala 
         
         <item>
             <title>Roadmap Estudos Inteligência Artificial (IA para todos!)</title>
-            <link>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
+            <link>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
             <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
+            <guid>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
             <description>Olá! Neste post, quero trazer um panorama sobre como começar a estudar Inteligência Artificial (IA) para diversos perfis, sejam técnicos ou não.
 Como posso começar a aprender IA Você pode iniciar seus estudos sobre IA, independentemente de seu perfil:
 Usuário Final Super Usuário/Usuário Avançado Desenvolvedor/Profissional de TI Usuário Final Não há melhor maneira de aprender sobre IA do que usando e experimentando.
@@ -376,10 +306,10 @@ O primeiro passo é se tornar um usuário das ferramentas de IA.</description>
         
         <item>
             <title>Como instalar e utilizar o LM Studio no seu computador</title>
-            <link>//localhost:1313/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</link>
+            <link>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</guid>
+            <guid>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</guid>
             <description>&amp;hellip;</description>
             <content type="html"><![CDATA[<p>Olá!</p>
 <p>Nesse post, vou dar a continuação ao último post, onde falei brevemente sobre ferramentas LLM para rodar localmente no seu computador, e como prometido, hoje vou falar sobre a ferramenta LM Studio.</p>
@@ -417,10 +347,10 @@ O primeiro passo é se tornar um usuário das ferramentas de IA.</description>
         
         <item>
             <title>Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial</title>
-            <link>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
+            <link>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá, Mundo! Bem-vindo ao blog ABC da IA.
 Sou Valdecir Carvalho, e iniciei este espaço para documentar e compartilhar minha jornada de aprendizado em inteligência artificial.
 Com uma trajetória de quase 30 anos em TI, passei por diversas áreas como suporte, desenvolvimento, infraestrutura e cloud, colaborando grandes empresass como IBM, Oracle e VMware. Além disso, sou apaixonado por comunidades, tecnologia e, videogames, com um carinho especial pelos jogos antigoss. Minha experiência com blogs inclui o blog Homelaber Brasil no qual escrevi por mais de 5 anos, o site Guia do Steam Deck e inúmeros artigos como escritor convidado para blogs e sites nacionais e internacionais.</description>
@@ -458,6 +388,108 @@ Com uma trajetória de quase 30 anos em TI, passei por diversas áreas como supo
 <p>Junte-se a mim nesta jornada de descobertas e transformação. A inteligência artificial está remodelando o mundo, e juntos podemos explorar todas as suas possibilidades.</p>
 <p>Até breve,</p>
 <p>&ndash;VC</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Os 15 principais termos do LLM que você precisa saber em 2024</title>
+            <link>/posts/2024/03/os-15-principais-termos-do-llm-que-voc%C3%AA-precisa-saber-em-2024/</link>
+            <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+            
+            <guid>/posts/2024/03/os-15-principais-termos-do-llm-que-voc%C3%AA-precisa-saber-em-2024/</guid>
+            <description>Neste post, exploraremos os 15 principais termos relacionados a LLMs. Cada termo será detalhado com definições claras e exemplos práticos para ajudar você a entender melhor como essas tecnologias funcionam e como são aplicadas no mundo real.</description>
+            <content type="html"><![CDATA[<h1 id="os-15-principais-termos-do-llm-que-você-precisa-saber-em-2024">Os 15 principais termos do LLM que você precisa saber em 2024</h1>
+<h2 id="introdução">Introdução</h2>
+<p>Os Modelos de Linguagem de Grande Escala (Large Language Models - LLMs) estão moldando o futuro da inteligência artificial e transformando a maneira como interagimos com a tecnologia. As LLMs desempenham um papel crucial na geração e compreensão de texto em diversas aplicações.</p>
+<p>Compreender os principais termos e conceitos associados a esses modelos é essencial para aproveitar ao máximo seu potencial e para se manter atualizado com as tendências emergentes em IA.</p>
+<p>Neste post, exploraremos os 15 principais termos relacionados a LLMs. Cada termo será detalhado com definições claras e exemplos práticos para ajudar você a entender melhor como essas tecnologias funcionam e como são aplicadas no mundo real.</p>
+<h2 id="transformers">Transformers</h2>
+<p><strong>Definição</strong>: Transformers são uma arquitetura de processamento de linguagem que analisa as relações entre palavras em um texto para entender e gerar linguagem de forma mais eficaz.</p>
+<p><strong>Detalhamento</strong>: A arquitetura Transformer utiliza mecanismos de atenção para identificar a importância de cada palavra em relação às outras, permitindo uma compreensão mais profunda do contexto. Esse modelo é fundamental para o funcionamento de muitos LLMs modernos.</p>
+<p><strong>Exemplo Prático</strong>: O ChatGPT se utiliza a arquitetura Transformer para gerar respostas coerentes e contextualmente apropriadas em aplicações como chatbots e assistentes virtuais.</p>
+<h2 id="tokens">Tokens</h2>
+<p><strong>Definição</strong>: Tokens são as unidades básicas de texto que um LLM processa, como palavras, subpalavras ou caracteres.</p>
+<p><strong>Detalhamento</strong>: A tokenização divide o texto em partes menores que podem ser facilmente processadas pelo modelo. Isso ajuda na análise e geração de texto, permitindo que o modelo compreenda e trabalhe com diferentes segmentos do texto.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de processamento de linguagem natural para análise de sentimentos, o texto é <strong>tokenizado</strong> para que o modelo possa analisar cada palavra ou subpalavra separadamente e entender o sentimento expresso.</p>
+<h2 id="chunking">Chunking</h2>
+<p><strong>Definição</strong>: Chunking é o processo de dividir o texto em segmentos menores e gerenciáveis para facilitar a análise por um LLM.</p>
+<p><strong>Detalhamento</strong>: Semelhante ao agrupamento de palavras em frases, o chunking ajuda a organizar o texto em partes que podem ser processadas mais eficientemente, melhorando a análise e a geração de texto.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de tradução automática, o chunking pode ser usado para dividir o texto em frases ou blocos menores, facilitando a tradução precisa e fluente de um idioma para outro.</p>
+<h2 id="indexação-indexing">Indexação (Indexing)</h2>
+<p><strong>Definição</strong>: Indexação envolve criar um catálogo de dados para permitir a recuperação eficiente de informações específicas em grandes conjuntos de dados.</p>
+<p><strong>Detalhamento</strong>: A indexação é essencial para organizar e acessar rapidamente informações relevantes em grandes bases de dados, melhorando a eficiência dos processos de busca e recuperação.</p>
+<p><strong>Exemplo Prático</strong>: Motores de busca como o Google utilizam indexação para catalogar páginas da web, permitindo que os usuários encontrem rapidamente informações relevantes ao pesquisar por palavras-chave.</p>
+<h2 id="incorporação-embeddings">Incorporação (Embeddings)</h2>
+<p><strong>Definição</strong>: Embeddings são representações numéricas de palavras ou frases que permitem a um LLM compreender suas relações e significados.</p>
+<p><strong>Detalhamento</strong>: Os embeddings capturam a essência semântica das palavras e são usados para medir similaridades e diferenças entre elas, facilitando a compreensão e a geração de texto.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de recomendação de filmes, embeddings podem ser usados para comparar a descrição de um filme com as preferências de um usuário, ajudando a sugerir filmes semelhantes.</p>
+<h2 id="pesquisa-vetorial-vector-search">Pesquisa Vetorial (Vector Search)</h2>
+<p><strong>Definição</strong>: Pesquisa vetorial envolve encontrar informações semelhantes em grandes conjuntos de dados utilizando embeddings para comparar vetores de características.</p>
+<p><strong>Detalhamento</strong>: Essa técnica é usada para localizar dados relevantes com base em suas representações vetoriais, tornando a busca por informações mais eficiente e precisa.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de recuperação de documentos, a pesquisa vetorial pode ser usada para encontrar artigos ou pesquisas que sejam semanticamente semelhantes a uma consulta do usuário.</p>
+<h2 id="banco-de-dados-de-vetores-vector-database">Banco de Dados de Vetores (Vector Database)</h2>
+<p><strong>Definição</strong>: Um banco de dados de vetores armazena representações numéricas (embeddings) de dados para permitir uma pesquisa vetorial eficiente.</p>
+<p><strong>Detalhamento</strong>: Esses bancos de dados são otimizados para armazenar e recuperar vetores rapidamente, facilitando a busca e análise de grandes volumes de dados.</p>
+<p><strong>Exemplo Prático</strong>: Plataformas de busca de imagens como o Google Imagens utilizam bancos de dados de vetores para armazenar representações de imagens, permitindo a busca por imagens semelhantes.</p>
+<h2 id="inteligência-geral-artificial-artificial-general-intelligence---agi">Inteligência Geral Artificial (Artificial General Intelligence - AGI)</h2>
+<p><strong>Definição</strong>: AGI é o objetivo de criar máquinas que possam pensar e aprender de maneira similar aos humanos, com uma compreensão geral e adaptabilidade.</p>
+<p><strong>Detalhamento</strong>: Enquanto os LLMs atuais são especialistas em tarefas específicas, a AGI visa desenvolver sistemas com habilidades gerais de aprendizado e resolução de problemas que se aproximem da inteligência humana.</p>
+<p><strong>Exemplo Prático</strong>: Atualmente, a AGI ainda é um conceito teórico, mas os avanços em LLMs são passos importantes para alcançar essa meta. A pesquisa em AGI busca criar sistemas que possam realizar uma ampla gama de tarefas com flexibilidade e compreensão semelhantes às capacidades humanas.</p>
+<h2 id="agente-llm-llm-agents">Agente LLM (LLM Agents)</h2>
+<p><strong>Definição</strong>: Um agente LLM é um modelo treinado para executar uma tarefa específica, como gerar conteúdo ou responder perguntas em um domínio específico.</p>
+<p><strong>Detalhamento</strong>: Esses agentes são adaptados para lidar com requisitos particulares, melhorando o desempenho e a relevância das respostas ou conteúdos gerados.</p>
+<p><strong>Exemplo Prático</strong>: Um assistente virtual especializado em suporte técnico pode ser um agente LLM treinado para responder a perguntas específicas sobre produtos e serviços, fornecendo suporte personalizado e eficiente.</p>
+<h2 id="mixture-of-experts-moe">Mixture of Experts (MoE)</h2>
+<p><strong>Definição</strong>: MoE é uma técnica que utiliza múltiplos modelos especializados menores para melhorar o desempenho em tarefas específicas.</p>
+<p><strong>Detalhamento</strong>: Em vez de usar um único modelo grande, o MoE combina modelos menores especializados em diferentes aspectos, permitindo uma abordagem mais eficiente e eficaz para tarefas complexas.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de recomendação, o MoE pode usar especialistas em diferentes categorias de produtos para fornecer recomendações mais precisas e personalizadas para os usuários.</p>
+<h2 id="shot-learning">Shot Learning</h2>
+<p><strong>Definição</strong>: Shot learning refere-se à quantidade de exemplos necessários para que um LLM aprenda uma nova tarefa.</p>
+<p><strong>Detalhamento</strong>: Essa técnica mede a eficiência do modelo em aprender a partir de exemplos limitados, impactando a forma como o modelo é treinado e ajustado para novas tarefas.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de reconhecimento de imagens, o shot learning pode permitir que o modelo aprenda a identificar novos tipos de objetos com apenas alguns exemplos, facilitando a adaptação a novas categorias.</p>
+<blockquote>
+<blockquote>
+<h3 id="zero-shot">Zero-Shot</h3>
+</blockquote>
+</blockquote>
+<p><strong>Definição</strong>: Zero-shot learning é a capacidade de um LLM realizar uma tarefa sem ter sido treinado especificamente para ela, baseando-se apenas no conhecimento pré-existente.</p>
+<p><strong>Detalhamento</strong>: Essa abordagem permite que o modelo generalize e aplique seu conhecimento para novas tarefas sem a necessidade de exemplos específicos durante o treinamento.</p>
+<p><strong>Exemplo Prático</strong>: Um modelo de tradução automática pode usar zero-shot learning para traduzir um idioma pouco comum para o qual não há muitos exemplos de treinamento, baseando-se em sua compreensão geral de linguagens.</p>
+<blockquote>
+<blockquote>
+<h3 id="one-shot">One-Shot</h3>
+</blockquote>
+</blockquote>
+<p><strong>Definição</strong>: One-shot learning é o processo de treinar um LLM com apenas um exemplo para realizar uma nova tarefa.</p>
+<p><strong>Detalhamento</strong>: Essa técnica é útil para adaptar modelos a novas tarefas ou categorias com um número limitado de exemplos, melhorando a flexibilidade e a capacidade de generalização do modelo.</p>
+<p><strong>Exemplo Prático</strong>: Um modelo de reconhecimento de texto manuscrito pode aprender a identificar uma nova letra ou símbolo com apenas um exemplo, facilitando a adaptação a diferentes estilos de escrita.</p>
+<blockquote>
+<blockquote>
+<h3 id="n-shot">N-Shot</h3>
+</blockquote>
+</blockquote>
+<p><strong>Definição</strong>: N-shot learning refere-se ao treinamento de um LLM com vários exemplos para aprender uma nova tarefa.</p>
+<p><strong>Detalhamento</strong>: A abordagem N-shot fornece ao modelo uma quantidade maior de exemplos, o que pode melhorar a precisão e a eficiência na realização da tarefa.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de classificação de imagens, o N-shot learning pode ser utilizado para treinar o modelo com vários exemplos de diferentes categorias, melhorando sua capacidade de distinguir entre essas categorias.</p>
+<h2 id="lora-quantizado-adaptadores-de-baixa-classificação">LoRA Quantizado (Adaptadores de Baixa Classificação)</h2>
+<p><strong>Definição</strong>: LoRA quantizado é uma técnica para reduzir o tamanho e a complexidade dos LLMs, tornando-os mais adequados para execução em dispositivos com recursos limitados.</p>
+<p><strong>Detalhamento</strong>: A técnica envolve a aplicação de quantização e adaptadores de baixa classificação para compactar o modelo, permitindo sua execução eficiente em dispositivos com capacidade limitada.</p>
+<p><strong>Exemplo Prático</strong>: Aplicações móveis que utilizam LLMs para sugestões de texto em tempo real podem empregar LoRA quantizado para funcionar eficientemente em smartphones com processamento limitado, garantindo uma experiência de usuário fluida e rápida.</p>
+<h2 id="ajuste-fino-com-eficiência-de-parâmetros-parameter-efficient-fine-tuning">Ajuste Fino com Eficiência de Parâmetros (Parameter-Efficient Fine-Tuning)</h2>
+<p><strong>Definição</strong>: Ajuste fino com eficiência de parâmetros é uma técnica que permite treinar um modelo menor com base em um modelo maior, focando em uma tarefa específica e mantendo o uso de recursos controlado.</p>
+<p><strong>Detalhamento</strong>: Em vez de treinar um modelo do zero, que pode ser extremamente caro e demorado, essa abordagem permite adaptar um modelo pré-treinado a uma nova tarefa com um conjunto menor de dados. O ajuste fino concentra-se em otimizar o desempenho do modelo para tarefas específicas, como tradução de linguagem ou análise de sentimentos, sem a necessidade de recomeçar o treinamento.</p>
+<p><strong>Exemplo Prático</strong>: Imagine um modelo de linguagem geral como o GPT-3, que é treinado em uma vasta gama de dados. Para uma aplicação específica, como assistência jurídica, um modelo menor pode ser ajustado usando dados específicos do domínio jurídico. Esse processo permite que o modelo menor se especialize em gerar respostas ou documentos legais com base em uma base de conhecimento mais restrita, enquanto ainda se beneficia do conhecimento prévio do modelo maior.</p>
+<h2 id="rag-geração-aumentada-de-recuperação">RAG (Geração Aumentada de Recuperação)</h2>
+<p><strong>Definição</strong>: RAG é uma técnica onde um LLM não apenas gera texto, mas também recupera informações relevantes de fontes externas para aprimorar suas respostas.</p>
+<p><strong>Detalhamento</strong>: A Geração Aumentada de Recuperação combina a geração de texto com a recuperação de informações, permitindo que o modelo forneça respostas mais informadas e precisas ao buscar dados relevantes além do seu treinamento inicial.</p>
+<p><strong>Exemplo Prático</strong>: Em um assistente virtual avançado, o RAG pode ser usado para responder perguntas sobre eventos recentes ou informações específicas consultando fontes externas, como notícias ou bases de dados, para fornecer respostas atualizadas e detalhadas.</p>
+<h2 id="prompt-engineering">Prompt Engineering</h2>
+<p><strong>Definição</strong>: Prompt Engineering é a arte de criar instruções claras e específicas para orientar um LLM a gerar o resultado desejado.</p>
+<p><strong>Detalhamento</strong>: A engenharia de prompts envolve a elaboração de perguntas ou comandos precisos para obter respostas mais relevantes e úteis do modelo, maximizando a eficácia das interações com o LLM.</p>
+<p><strong>Exemplo Prático</strong>: Em um sistema de geração de conteúdo, a engenharia de prompts pode ser usada para formular instruções específicas para o LLM criar artigos, blogs ou textos que atendam a requisitos de estilo e conteúdo precisos.</p>
+<hr>
+<p>Esta lista apenas arranha a superfície da linguagem LLM! À medida que o campo continua a evoluir, o mesmo acontece com o vocabulário. Mas com esses termos básicos você conseguirá navegar nesse mundo de IA, LLMs e GenAI.</p>
+<p>Até o próximo post!</p>
 ]]></content>
         </item>
         
