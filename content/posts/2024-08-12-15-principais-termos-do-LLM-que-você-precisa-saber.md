@@ -16,8 +16,6 @@ series:
 - Iniciante
 ---
 
-# Os 15 principais termos do LLM que você precisa saber em 2024
-
 ## Introdução
 
 Os Modelos de Linguagem de Grande Escala (Large Language Models - LLMs) estão moldando o futuro da inteligência artificial e transformando a maneira como interagimos com a tecnologia. As LLMs desempenham um papel crucial na geração e compreensão de texto em diversas aplicações. 
