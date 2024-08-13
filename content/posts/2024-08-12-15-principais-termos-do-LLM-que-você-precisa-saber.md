@@ -20,7 +20,7 @@ series:
 
 ## Introdução
 
-Os Modelos de Linguagem de Grande Escala (LLMs) estão moldando o futuro da inteligência artificial e transformando a maneira como interagimos com a tecnologia. As LLMs desempenham um papel crucial na geração e compreensão de texto em diversas aplicações. 
+Os Modelos de Linguagem de Grande Escala (Large Language Models - LLMs) estão moldando o futuro da inteligência artificial e transformando a maneira como interagimos com a tecnologia. As LLMs desempenham um papel crucial na geração e compreensão de texto em diversas aplicações. 
 
 Compreender os principais termos e conceitos associados a esses modelos é essencial para aproveitar ao máximo seu potencial e para se manter atualizado com as tendências emergentes em IA.
 
