@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on ABC AI</title>
-        <link>/posts/</link>
+        <link>//localhost:1313/posts/</link>
         <description>Recent content in Posts on ABC AI</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>pt-br</language>
-        <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
-        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 12 Aug 2024 00:00:00 +0000</lastBuildDate>
+        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Criando Imagens com Inteligencia Artificial</title>
-            <link>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</link>
             <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/criando-imagens-com-inteligencia-artificial/</guid>
             <description>Eu começei a me interessar por Inteligência Artificial, após tomar contato com esses softwares de geração de imagens tipo MidJourney. Sõ que eu não gosto da maneira de usar o MidJourney, não sou um usuário de Discord e para mim, esse é um grande limitador.
 Comecei a pesquisar sobre alternativas open source ao MidJourney e descobri um MUNDO de possibilidades.
 O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variações.</description>
@@ -48,10 +48,10 @@ O software mais famoso e conhecido, é o Stable Diffusion e suas muitas variaç�
         
         <item>
             <title>A História da Inteligência Artificial</title>
-            <link>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/a-hist%C3%B3ria-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá!
 Eu gosto de entender a origem das coisa, então nada mais justo do que começar o meu blog falando sobre a origem e história da Interligencia Artificial.
 Não pretendo ser massante aqui ou mesmo escrever páginas e páginas de um conteúdo que já foi amplamente publicado na internet, a ideia é fazer um resumo de onde e como surgiu essa coisa chamada Inteligência Artificial e sua evolução até os dias de hoje.</description>
@@ -178,11 +178,81 @@ A ascensão da IA traz consigo dilemas éticos, desde o viés algorítmico até 
         </item>
         
         <item>
+            <title>Os 15 principais termos do LLM que você precisa saber</title>
+            <link>//localhost:1313/posts/2024/08/os-15-principais-termos-do-llm-que-voc%C3%AA-precisa-saber/</link>
+            <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+            
+            <guid>//localhost:1313/posts/2024/08/os-15-principais-termos-do-llm-que-voc%C3%AA-precisa-saber/</guid>
+            <description>&amp;hellip;</description>
+            <content type="html"><![CDATA[<h1 id="os-15-principais-termos-do-llm-que-você-precisa-saber-em-2024">Os 15 principais termos do LLM que você precisa saber em 2024</h1>
+<p>Os Large Language Models (LLMs) estão revolucionando a forma como interagimos com a tecnologia. Mas com toda esta inovação surge um novo vocabulário!</p>
+<p>Vamos mergulhar em alguns termos essenciais e explicar o que cada um significa:</p>
+<ul>
+<li>
+<p>Transformers: Imagine uma poderosa arquitetura de processamento de linguagem. Isso é um transformador! Ele analisa as relações entre palavras no texto, cruciais para que os LLMs entendam e gerem a linguagem</p>
+</li>
+<li>
+<p>Tokens: pense em uma frase como um trem e nas palavras como vagões individuais. Tokens são as unidades básicas de texto que um LLM processa, como palavras ou subpalavras.</p>
+</li>
+<li>
+<p>Chunking: semelhante ao agrupamento de vagões de trem, o chunking envolve dividir o texto em segmentos menores e gerenciáveis ​​para o LLM analisar</p>
+</li>
+<li>
+<p>Indexação: é como criar um catálogo de biblioteca para os enormes conjuntos de dados nos quais os LLMs treinam. A indexação permite a recuperação eficiente de informações específicas.</p>
+</li>
+<li>
+<p>Incorporação: Imagine capturar a essência de uma palavra em um código numérico. Os embeddings representam palavras de uma forma que permite ao LLM compreender suas relações entre si.</p>
+</li>
+<li>
+<p>Pesquisa vetorial: pense em encontrar um livro em uma biblioteca com base em seu tópico. A pesquisa vetorial ajuda os LLMs a encontrar informações semelhantes em seus vastos conjuntos de dados usando embeddings.</p>
+</li>
+<li>
+<p>Banco de dados de vetores: Este banco de dados especializado armazena os códigos numéricos (incorporação) gerados durante o processo de incorporação, permitindo uma pesquisa vetorial eficiente.</p>
+</li>
+<li>
+<p>Inteligência Geral Artificial (AGI): O objetivo final da pesquisa em IA – criar máquinas que possam pensar e aprender como humanos. Os LLMs são um passo significativo nessa direção.</p>
+</li>
+<li>
+<p>Agente LLM: Imagine um LLM treinado especificamente para uma tarefa específica, como escrever diferentes tipos de conteúdo criativo ou responder suas perguntas em um domínio específico. Este é um agente LLM.</p>
+</li>
+<li>
+<p>MOE (Mixture of Experts): Pense em uma equipe de especialistas colaborando. O MOE permite que um LLM aproveite vários modelos especializados menores para melhorar o desempenho em tarefas específicas.</p>
+</li>
+<li>
+<p>Shot Learning: Refere-se a quanta instrução um LLM precisa para aprender uma nova tarefa.</p>
+</li>
+<li>
+<p>Zero-Shot: Nenhum exemplo fornecido, o LLM depende do conhecimento existente.</p>
+</li>
+<li>
+<p>One-Shot: Apenas um exemplo é dado para orientar o LLM.</p>
+</li>
+<li>
+<p>N-Shot: Vários exemplos são fornecidos para o LLM aprender.</p>
+</li>
+<li>
+<p>Ajuste fino com eficiência de parâmetros: LLMs podem ser enormes! Essa técnica permite treinar um modelo menor em cima de um maior, concentrando-se em uma tarefa específica e mantendo o uso de recursos sob controle.</p>
+</li>
+<li>
+<p>RAG (Geração Aumentada de Recuperação): Imagine um LLM que não apenas gera texto, mas também recupera informações relevantes de fontes externas para melhorar sua resposta. Isso é RAG!</p>
+</li>
+<li>
+<p>Prompt Engineering: A arte de elaborar instruções claras e concisas para o LLM alcançar o resultado desejado. Pense nisso como dar ao LLM uma pergunta específica para responder.</p>
+</li>
+<li>
+<p>LoRA quantizado (adaptadores de baixa classificação): Uma técnica para compactar grandes modelos LLM, tornando-os menores e mais rápidos para execução em dispositivos com recursos limitados.</p>
+</li>
+</ul>
+<p>Esta lista apenas arranha a superfície da linguagem LLM! À medida que o campo continua a evoluir, o mesmo acontece com o vocabulário. Mas com esses termos básicos em seu arsenal, você estará no caminho certo para navegar no emocionante mundo dos grandes modelos de linguagem.</p>
+]]></content>
+        </item>
+        
+        <item>
             <title>ChatGPT no seu Computador - Introdução ao Uso de LLMs locais</title>
-            <link>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
+            <link>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
             <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
+            <guid>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
             <description>Olá! Neste post, vou fazer uma introdução ao uso de LLM - Large Language Model / Modelo de Linguagem de Grande Escala que podem ser executados localmente no seu computador, ou para simplificar, como rodar o ChatGPT no seu computador e totalmente grátis.
 Introdução ao uso de LLMs localmente Os Modelos de Linguagem de Grande Escala (LLMs), como GPT (Generative Pre-trained Transformer) e BERT (Bidirectional Encoder Representations from Transformers), são tipos de inteligência artificial projetados para entender e gerar texto de maneira coerente e contextual.</description>
             <content type="html"><![CDATA[<p><img alt="Screenshot Site LM Studio" src="/img/chatgpt-local.webp"></p>
@@ -240,10 +310,10 @@ Introdução ao uso de LLMs localmente Os Modelos de Linguagem de Grande Escala 
         
         <item>
             <title>Roadmap Estudos Inteligência Artificial (IA para todos!)</title>
-            <link>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
+            <link>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</link>
             <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
+            <guid>//localhost:1313/posts/2024/04/roadmap-estudos-intelig%C3%AAncia-artificial-ia-para-todos/</guid>
             <description>Olá! Neste post, quero trazer um panorama sobre como começar a estudar Inteligência Artificial (IA) para diversos perfis, sejam técnicos ou não.
 Como posso começar a aprender IA Você pode iniciar seus estudos sobre IA, independentemente de seu perfil:
 Usuário Final Super Usuário/Usuário Avançado Desenvolvedor/Profissional de TI Usuário Final Não há melhor maneira de aprender sobre IA do que usando e experimentando.
@@ -306,10 +376,10 @@ O primeiro passo é se tornar um usuário das ferramentas de IA.</description>
         
         <item>
             <title>Como instalar e utilizar o LM Studio no seu computador</title>
-            <link>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</link>
+            <link>//localhost:1313/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</guid>
+            <guid>//localhost:1313/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</guid>
             <description>&amp;hellip;</description>
             <content type="html"><![CDATA[<p>Olá!</p>
 <p>Nesse post, vou dar a continuação ao último post, onde falei brevemente sobre ferramentas LLM para rodar localmente no seu computador, e como prometido, hoje vou falar sobre a ferramenta LM Studio.</p>
@@ -347,10 +417,10 @@ O primeiro passo é se tornar um usuário das ferramentas de IA.</description>
         
         <item>
             <title>Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial</title>
-            <link>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
+            <link>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
             
-            <guid>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
+            <guid>//localhost:1313/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</guid>
             <description>Olá, Mundo! Bem-vindo ao blog ABC da IA.
 Sou Valdecir Carvalho, e iniciei este espaço para documentar e compartilhar minha jornada de aprendizado em inteligência artificial.
 Com uma trajetória de quase 30 anos em TI, passei por diversas áreas como suporte, desenvolvimento, infraestrutura e cloud, colaborando grandes empresass como IBM, Oracle e VMware. Além disso, sou apaixonado por comunidades, tecnologia e, videogames, com um carinho especial pelos jogos antigoss. Minha experiência com blogs inclui o blog Homelaber Brasil no qual escrevi por mais de 5 anos, o site Guia do Steam Deck e inúmeros artigos como escritor convidado para blogs e sites nacionais e internacionais.</description>

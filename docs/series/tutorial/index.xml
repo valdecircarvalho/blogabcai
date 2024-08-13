@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on ABC AI</title>
-    <link>/series/tutorial/</link>
+    <link>//localhost:1313/series/tutorial/</link>
     <description>Recent content in Tutorial on ABC AI</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/series/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/series/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT no seu Computador - Introdução ao Uso de LLMs locais</title>
-      <link>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
+      <link>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
+      <guid>//localhost:1313/posts/2024/04/chatgpt-no-seu-computador-introdu%C3%A7%C3%A3o-ao-uso-de-llms-locais/</guid>
       <description>Olá! Neste post, vou fazer uma introdução ao uso de LLM - Large Language Model / Modelo de Linguagem de Grande Escala que podem ser executados localmente no seu computador, ou para simplificar, como rodar o ChatGPT no seu computador e totalmente grátis.&#xA;Introdução ao uso de LLMs localmente Os Modelos de Linguagem de Grande Escala (LLMs), como GPT (Generative Pre-trained Transformer) e BERT (Bidirectional Encoder Representations from Transformers), são tipos de inteligência artificial projetados para entender e gerar texto de maneira coerente e contextual.</description>
     </item>
   </channel>
