@@ -1,3 +1,21 @@
+---
+author:
+  name: "Valdecir Carvalho"
+date: 2024-03-13
+linktitle: ola-mundo-da-ia
+featured: true
+type:
+- post
+- posts
+title: Os 15 principais termos do LLM que você precisa saber em 2024
+summary: Neste post, exploraremos os 15 principais termos relacionados a LLMs. Cada termo será detalhado com definições claras e exemplos práticos para ajudar você a entender melhor como essas tecnologias funcionam e como são aplicadas no mundo real.
+series:
+- AI
+- LLM
+- GenAI
+- Iniciante
+---
+
 # Os 15 principais termos do LLM que você precisa saber em 2024
 
 ## Introdução
