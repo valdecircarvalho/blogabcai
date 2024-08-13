@@ -305,47 +305,6 @@ O primeiro passo é se tornar um usuário das ferramentas de IA.</description>
         </item>
         
         <item>
-            <title>Como instalar e utilizar o LM Studio no seu computador</title>
-            <link>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</link>
-            <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-            
-            <guid>/posts/2024/04/como-instalar-e-utilizar-o-lm-studio-no-seu-computador/</guid>
-            <description>&amp;hellip;</description>
-            <content type="html"><![CDATA[<p>Olá!</p>
-<p>Nesse post, vou dar a continuação ao último post, onde falei brevemente sobre ferramentas LLM para rodar localmente no seu computador, e como prometido, hoje vou falar sobre a ferramenta LM Studio.</p>
-<p>A ideia aqui, é demonstrar como fazer a instalação, escolher e baixar um módulo de LLM opensource localmente e começar a fazer interações, como se fosse o ChatGPT, mas de uma maneira totalmente local, privada e sem custos.</p>
-<h2 id="o-que-é-o-lm-studio">O que é o LM Studio</h2>
-<p>LM Studio é uma plataforma que possibilita o uso local de modelos de linguagem avançados, com suporte para várias arquiteturas de modelos. Essa ferramenta é ideal para desenvolvedores e pesquisadores que necessitam de um controle mais apurado sobre os modelos e onde a privacidade dos dados é uma preocupação crucial. Ela permite fácil integração com diferentes frameworks de IA e pode ser adaptada para usos específicos.</p>
-<p>O LM Studio está disponível para as plataformas Windows, Linux e MacOS e tem muitos recursos, que irão atender, desde os usuários iniciantes, até os mais avançados. É uma excelente porta de entrada no mundo de LLMs locais.</p>
-<p>Mas antes de proseguir, algumas informações importantes retiradas do site do produto:</p>
-<ul>
-<li>
-<p>P: O LM Studio coleta algum dado?</p>
-</li>
-<li>
-<p>R: Não. Uma das principais razões para usar um LLM local é a privacidade, e o LM Studio é projetado para isso. Seus dados permanecem privados e locais no seu dispositivo.</p>
-</li>
-<li>
-<p>P:Posso usar o LM Studio no trabalho?</p>
-</li>
-<li>
-<p>R: Por favor, preencha o formulário de solicitação LM Studio @ Work e retornaremos o contato o mais rápido possível. Por favor, permita-nos algum tempo para responder.</p>
-</li>
-<li>
-<p>P:Quais são os requisitos mínimos de hardware / software?</p>
-<ul>
-<li>Mac com Apple Silicon (M1/M2/M3) com macOS 13.6 ou mais recente</li>
-<li>PC Windows / Linux com um processador que suporte AVX2 (tipicamente PCs mais novos)</li>
-<li>Recomenda-se 16GB+ de RAM. Para PCs, recomenda-se 6GB+ de VRAM</li>
-<li>GPUs NVIDIA/AMD são suportadas</li>
-</ul>
-</li>
-</ul>
-<h2 id="instalando-o-lm-studio-no-seu-computador">Instalando o LM Studio no seu computador</h2>
-]]></content>
-        </item>
-        
-        <item>
             <title>Bem-vindo ao ABC da IA - Uma Jornada de Aprendizado ao Mundo da Inteligência Artificial</title>
             <link>/posts/2024/04/bem-vindo-ao-abc-da-ia-uma-jornada-de-aprendizado-ao-mundo-da-intelig%C3%AAncia-artificial/</link>
             <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
